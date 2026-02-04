@@ -1,2 +1,2 @@
 # e010-python-learning-journal
-This repository is my personal learning journal for WGU E010, not for sharing or distributing assessment answers.
+This repository is my personal learning journal for WGU course E010 – Foundations of Programming (Python). Its purpose is to document my practice code, notes, and reflections as I build programming competency. I will not store, share, or reuse any proprietary WGU assessment content or graded solutions here. All code and notes in this repository are written in my own words and are intended only to support my individual learning while maintaining full compliance with WGU’s academic integrity and authenticity expectations.
