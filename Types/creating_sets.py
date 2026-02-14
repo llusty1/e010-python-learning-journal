@@ -8,3 +8,11 @@ nums2 = {4, 5, 6, 7, "all the cretins go to heaven."}
 
 print(nums1)
 print(nums2)
+
+# Initial list contains some duplicate values
+first_names = [ 'Alba', 'Hema', 'Ron', 'Alba', 'Musa', 'Ron', 'Ron' ]
+
+# Creating a set removes any duplicate values
+names_set = set(first_names)
+
+print(names_set)
