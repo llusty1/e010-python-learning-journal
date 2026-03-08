@@ -12,8 +12,8 @@ while i <= 2:
 
 print("-" * 15)
 
-i = 0 
-while i <= 100:
+i = -2 
+while i <= 8:
     i += 2
     print(i)
     
@@ -25,10 +25,10 @@ while i >= 1:
     i -= 1
 
 print("Blast off!!!")
-print()
+print("." * 15)
 
-i = -100
-while i <= 65:
+i = -5
+while i <= 5:
     print(i)
     i += 1
 print()
