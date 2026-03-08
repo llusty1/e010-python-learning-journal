@@ -7,7 +7,7 @@ while value < 10: # If you want to include the number 10 when printing the value
     if value == 5: # Here we will nest an if statement into the body of the while loop. 
         break
     value += 1
-
+print("-" * 15)
 # Simple for loop
 # names = ["Dave", "Sara", "John"]
 # for x in names:
@@ -26,10 +26,11 @@ for x in range(0,101,5):
     print(x)
 else:
     print("Glad that's over!")
-
+print("-" * 15)
 names = ["Dave", "Sara", "John"]
 actions = ["codes", "eats", "sleeps"]
-
+print("-" * 15)
 for action in actions:
     for name in names:
         print(name + " " + action + ".")
+print("-" * 15)
