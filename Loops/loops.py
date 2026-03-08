@@ -22,7 +22,7 @@ while value < 10: # If you want to include the number 10 when printing the value
 #     print(x)
 
 # Range function in a for loop
-for x in range(5,101,5):
+for x in range(0,101,5):
     print(x)
 else:
     print("Glad that's over!")
